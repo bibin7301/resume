@@ -1,4 +1,5 @@
 # # Project3 - Personal Portfolio (HTML)
+[live@](https://bibinresume.netlify.app/)
 
 This project is a simple **personal portfolio webpage** created using pure HTML and Font Awesome icons. It displays a brief profile, contact information, education details, skills, and links to various projects.
 
@@ -53,6 +54,5 @@ This is an excellent starting point for anyone learning **HTML** and **front-end
 
 ## 📁 Project Structure
 
-[live@](bibinresume.netlify.app)
 
 ![img](./pic2.png)
